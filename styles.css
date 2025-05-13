@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Style for the target element */
+#level {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+}
